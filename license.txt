@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cloud Tea!
+* source:	https://sketchfab.com/3d-models/cloud-tea-a8bd60f40e444a51a87bdaa1cc015320
+* author:	Kigha (https://sketchfab.com/Kigha)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cloud Tea!" (https://sketchfab.com/3d-models/cloud-tea-a8bd60f40e444a51a87bdaa1cc015320) by Kigha (https://sketchfab.com/Kigha) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
